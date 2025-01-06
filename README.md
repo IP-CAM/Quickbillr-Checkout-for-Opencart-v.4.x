@@ -1,4 +1,4 @@
-# Едностъпков чекаут за OpenCart 4 с Еконт и Спиди
+# Едностъпков чекаут за OpenCart 4 с Еконт и Спиди - [ДЕМО](https://quick.opencartsupports.com/){:target="_blank" rel="noopener"}
 
 [<img alt="alt_text" src="https://quickbillr.com/wp-content/uploads/2025/01/logo-new.svg" />](https://quickbillr.com/)
 
@@ -64,5 +64,5 @@
 
 ## Допълнителни линкове
 
-- [OpenCartBulgaria homepage](https://www.opencartbulgaria.com/)
-- [Lemon Development homepage](https://lemondev.co/)
+- [OpenCartBulgaria homepage](https://www.opencartbulgaria.com/){:target="_blank" rel="noopener"}
+- [Lemon Development homepage](https://lemondev.co/){:target="_blank" rel="noopener"}
