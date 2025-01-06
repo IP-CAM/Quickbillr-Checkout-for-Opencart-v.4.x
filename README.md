@@ -1,5 +1,7 @@
-[<img alt="alt_text" src="https://quickbillr.com/wp-content/uploads/2025/01/logo-new.svg" />](https://quickbillr.com/)
 # Едностъпков чекаут за OpenCart 4 с Еконт и Спиди
+
+[<img alt="alt_text" src="https://quickbillr.com/wp-content/uploads/2025/01/logo-new.svg" />](https://quickbillr.com/)
+
 
 ## Описание
 
