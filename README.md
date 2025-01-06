@@ -19,7 +19,7 @@
 
 ## Версии
 
-[![GitHub release](https://img.shields.io/github/v/release/opencartbulgaria/quickbillr-checkout)](https://github.com/opencartbulgaria/quickbillr-checkout)
+[![GitHub release](https://img.shields.io/github/v/release/opencartbulgaria/quickbillr-checkout)](https://quickbillr.com/)
 
 
 ## Как да инсталирам QuickBillr на OpenCart 4?
